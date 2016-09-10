@@ -11,6 +11,4 @@ Primarily in Python for Maya (2016).
 I've been working with the maya.cmds module for the past couple years, these days I'm starting to transition some of that knowledge into PyMEL and so far I am enjoying it. Occasionally I'll come across things that break and don't function entirely as anticipated.
 
 CC welcome
-- David
-major@dmajorstudio.com
-http://www.dmajorstudio.com
+David
